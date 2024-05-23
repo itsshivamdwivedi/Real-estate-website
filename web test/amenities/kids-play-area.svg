@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-6);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="6.74" y1="35" x2="63.26" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ea6372"/>
+      <stop offset="1" stop-color="#f39657"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="48.25" y1="54.32" x2="57.58" y2="54.32" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="48.25" y1="40.18" x2="50.04" y2="40.18" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="55.78" y1="40.16" x2="57.57" y2="40.16" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="48.24" y1="43.94" x2="50.03" y2="43.94" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="55.78" y1="43.94" x2="57.57" y2="43.94" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="48.25" y1="47.71" x2="50.02" y2="47.71" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="55.8" y1="47.72" x2="57.57" y2="47.72" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="48.26" y1="51.49" x2="50.05" y2="51.49" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="55.79" y1="51.5" x2="57.56" y2="51.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect class="cls-1" x="6.74" y="11.9" width="56.52" height="46.19"/>
+  <g id="Group_12527" data-name="Group 12527">
+    <path id="Path_12492" data-name="Path 12492" class="cls-2" d="m61.42,36.41h-3.78c-.02.3-.04.58-.06.89h-1.8c-.02-.28-.03-.55-.05-.87h-5.65c-.02.29-.03.56-.05.86h-1.79c-.02-.28-.04-.57-.07-.87h-3.76v21.61h-1.83c-.02-.27-.04-.56-.07-.87h-5.63c-.02.29-.03.56-.05.87h-1.81v-15.94h-9.45v15.94h-1.85v-15.98c-.37-.03-.74-.03-1.1.02-.22.08-.4.25-.51.46-2.32,4.32-4.66,8.63-6.92,12.98-.71,1.7-2.45,2.74-4.29,2.57-1-.05-2,0-3-.01-.89,0-1.25-.4-1.16-1.29.18-1.81,1.63-3.24,3.45-3.37.46,0,.87-.27,1.04-.69,2.26-4.29,4.55-8.55,6.79-12.85.72-1.63,2.39-2.63,4.17-2.51.48.01.97,0,1.49,0v-12.28h-.84c-.41.04-.79-.2-.94-.58-.17-.37-.06-.81.25-1.07.08-.09.17-.17.25-.25l10.71-10.71c.77-.77,1.13-.77,1.91,0,3.61,3.61,7.22,7.22,10.83,10.83.45.3.57.91.26,1.36-.23.34-.64.5-1.03.41-.19-.01-.39,0-.63,0v9.46h17.51c1.02,0,1.3.28,1.3,1.28v21.68c0,.17-.01.34-.02.54h-1.82v-21.63Zm-35.84-3.8h7.58v-5.57h1.85v5.58h7.5v-7.49h-16.93v7.49Zm17.24-9.42l-8.79-8.78-8.79,8.78h17.57Zm-.28,11.35h-5.63v5.6h5.63v-5.6Zm-18.85,4.67c-.51,0-.96.03-1.4,0-1.15-.12-2.24.53-2.67,1.6-2.22,4.28-4.51,8.52-6.75,12.79-.43,1-1.41,1.65-2.5,1.65-.64.01-1.22.38-1.51.96.81,0,1.52-.04,2.22,0,1.03.11,2-.48,2.39-1.43,2.43-4.63,4.92-9.24,7.37-13.86.2-.5.72-.81,1.26-.75.52.03,1.04,0,1.58,0v-.98Zm3.75-4.66h-1.84v5.62h1.84v-5.62Zm3.76,0h-1.84v5.62h1.84v-5.62Zm3.77,0h-1.84v5.62h1.84v-5.62Zm7.56,7.54h-5.62v1.83h5.63v-1.83Zm-5.61,5.61h5.6v-1.84h-5.6v1.84Zm5.62,1.93h-5.63v1.83h5.63v-1.83Zm-5.64,5.61h5.63v-1.83h-5.63v1.83Z"/>
+    <rect id="Rectangle_141" data-name="Rectangle 141" class="cls-5" x="48.25" y="53.43" width="9.33" height="1.78"/>
+    <rect id="Rectangle_142" data-name="Rectangle 142" class="cls-6" x="48.25" y="39.3" width="1.79" height="1.77"/>
+    <rect id="Rectangle_143" data-name="Rectangle 143" class="cls-4" x="55.78" y="39.27" width="1.78" height="1.79"/>
+    <rect id="Rectangle_144" data-name="Rectangle 144" class="cls-10" x="48.24" y="43.05" width="1.79" height="1.78"/>
+    <rect id="Rectangle_145" data-name="Rectangle 145" class="cls-11" x="55.78" y="43.05" width="1.79" height="1.78"/>
+    <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-9" x="48.25" y="46.82" width="1.77" height="1.8"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-7" x="55.8" y="46.83" width="1.77" height="1.8"/>
+    <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-8" x="48.26" y="50.61" width="1.79" height="1.77"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" class="cls-3" x="55.79" y="50.6" width="1.78" height="1.79"/>
+  </g>
+</svg>
